@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-30T14:59:56 IST" name="Default suite" finished-at="2026-10-30T15:00:13 IST" duration-ms="17222">
+    <groups>
+    </groups>
+    <test started-at="2026-10-30T14:59:56 IST" name="Default test" finished-at="2026-10-30T15:00:13 IST" duration-ms="17222">
+      <class name="prac.DataProv">
+        <test-method signature="InstaLogin(java.lang.String,java.lang.String)[pri:0, instance:prac.DataProv@776aec5c]" started-at="2026-10-30T14:59:57 IST" name="InstaLogin" data-provider="details" finished-at="2026-10-30T15:00:00 IST" duration-ms="3151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kishor@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstaLogin -->
+        <test-method signature="InstaLogin(java.lang.String,java.lang.String)[pri:0, instance:prac.DataProv@776aec5c]" started-at="2026-10-30T15:00:00 IST" name="InstaLogin" data-provider="details" finished-at="2026-10-30T15:00:02 IST" duration-ms="2633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sarjan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sarjan@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstaLogin -->
+        <test-method signature="InstaLogin(java.lang.String,java.lang.String)[pri:0, instance:prac.DataProv@776aec5c]" started-at="2026-10-30T15:00:02 IST" name="InstaLogin" data-provider="details" finished-at="2026-10-30T15:00:05 IST" duration-ms="2722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhosh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Santhosh@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstaLogin -->
+        <test-method signature="InstaLogin(java.lang.String,java.lang.String)[pri:0, instance:prac.DataProv@776aec5c]" started-at="2026-10-30T15:00:05 IST" name="InstaLogin" data-provider="details" finished-at="2026-10-30T15:00:08 IST" duration-ms="2576" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akhila]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akhila@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstaLogin -->
+        <test-method signature="InstaLogin(java.lang.String,java.lang.String)[pri:0, instance:prac.DataProv@776aec5c]" started-at="2026-10-30T15:00:08 IST" name="InstaLogin" data-provider="details" finished-at="2026-10-30T15:00:10 IST" duration-ms="2631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Baikya Lakshmi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstaLogin -->
+        <test-method signature="InstaLogin(java.lang.String,java.lang.String)[pri:0, instance:prac.DataProv@776aec5c]" started-at="2026-10-30T15:00:10 IST" name="InstaLogin" data-provider="details" finished-at="2026-10-30T15:00:13 IST" duration-ms="2698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Divya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Divya@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstaLogin -->
+      </class> <!-- prac.DataProv -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
